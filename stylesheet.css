@@ -1,7 +1,9 @@
 .head{
   color:white;
-  background-image:url(https://github.com/bananaore/travel.githbu.io/blob/master/DSC_0731.JPG);
+  background-color:black;
   text-align:center;
+  width:110px
+  margin:0 auto;
 }
 
 h2{
