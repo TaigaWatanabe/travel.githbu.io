@@ -2,21 +2,18 @@
   color:white;
   background-color:black;
   text-align:center;
-  width:110px
-  margin:0 auto;
-}
-
-.head a{
-  foloat:left;
-}
-
-.head b{
-  float:right
 }
 
 .body{
   width:1170px;
   margio:0 auto;
+  text-aligm:center;
 }
 
-.
+.picuture{
+  font-size:20px;
+}
+
+.a{
+  font-size:15px;
+}
