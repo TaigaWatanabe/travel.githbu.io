@@ -2,11 +2,11 @@
   color:white;
   background-color:black;
   text-align:center;
+  position:fixed;
+  z-index:10px;
 }
 
-.body{
-  width:1170px;
-  margin:0 auto;
+.main{
   text-align:center;
 }
 
